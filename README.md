@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by...
 
 ### About me
 
-The purpose of this section is to accelerate your process of understanding me. These are some things I have learned about myself over the years that influence the what I do, how I work, and waht it's like to work alongside me. It does not replace getting to know me :) 
+These are some things I have learned about myself over the years that influence what I do, how I work, and what it's like to work with me. This document captures these things. The goal of this document is to help you get to know me, but it does not replace getting to know me. Nothing replaces time tête-à-tête or rolling up our sleeves and working together 😀
 
 I believe that we perform best when we believe in what we do. I find bottomless wells of energy and motivation when the work I'm doing alligns with the impact I want to ultimately have in this lifetime. We really do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend my time wisely on things that matter most. 
 
