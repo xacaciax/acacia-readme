@@ -6,7 +6,7 @@ Hey there! Thanks for stopping by...
 
 These are some things I have learned about myself over the years that influence what I do, how I work, and what it's like to work with me. This document captures these things. The goal of this document is to help you get to know me, but it does not replace getting to know me. Nothing replaces time tête-à-tête or rolling up our sleeves and working together 😀
 
-I believe that we perform best when we believe in what we do. I find bottomless wells of energy and motivation when the work I'm doing alligns with the impact I want to ultimately have in this lifetime. We really do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend my time wisely on things that matter most. 
+I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. We do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend it wisely on things that matter most. 
 
 #### Missions I care about 
 - creating inclusive spaces where people feel like they belong, take risks, and do their best work --> every team I am part of
