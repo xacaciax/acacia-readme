@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by...
 
 ### What is this? 
 
-These are some things I have learned about myself over the years that influence what I do, how I work, and what it's like to work with me. This document captures these things. The goal of this document is to help you get to know me, but it does not replace getting to know me. Nothing replaces time tête-à-tête or rolling up our sleeves and working together 😀 
+These are some things I have learned about myself over the years about who I am and what it's like to work with me.
 
 ### My Philosophy
 ... or, _mantras I live by_
