@@ -2,19 +2,11 @@
 
 Hey there! Thanks for stopping by... 
 
-### About me
+### What is this? 
 
-These are some things I have learned about myself over the years that influence what I do, how I work, and what it's like to work with me. This document captures these things. The goal of this document is to help you get to know me, but it does not replace getting to know me. Nothing replaces time tête-à-tête or rolling up our sleeves and working together 😀
+These are some things I have learned about myself over the years that influence what I do, how I work, and what it's like to work with me. This document captures these things. The goal of this document is to help you get to know me, but it does not replace getting to know me. Nothing replaces time tête-à-tête or rolling up our sleeves and working together 😀 
 
-I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. We do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend it wisely on things that matter most. 
-
-#### Missions I care about 
-- creating inclusive spaces where people feel like they belong, take risks, and do their best work --> every team I am part of
-- empowering the under-priveledged and under-resourced through education --> WomenWhoCode, GirlsWhoCode, etc. 
-- slowing and reversing climate change --> minimizing personal consumption, building and/or supporting scalable solutions for change
-- disrupting the education system and other long-standing institutions 
-
-### Core Values 
+### My Philosophy
 ... or, _mantras I live by_
 
 Clarity is power. [todo: explain]
@@ -26,6 +18,30 @@ We find our meaning in service to others. [todo: explain]
 Actions speak louder than words. [todo: explain]
 
 We are all WIP. 
+
+### Working with me
+
+#### What you can expect
+- I will give my best in everything I do
+- Always learning, always growing
+- I will not withhold feedback 
+- I won't accept the status quo
+
+#### What I expect of you
+- Don't withold feedback from me
+- 
+
+### Communicating with me
+
+[WIP]
+
+### Bugs and Quirks
+
+### My Story
+
+### Personal Interests
+
+I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. We do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend it wisely on things that matter most.
 
 ### What I'm up to... 
 
