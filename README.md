@@ -23,25 +23,30 @@ We are all WIP.
 
 #### What you can expect
 - I will give my best in everything I do
-- Always learning, always growing
-- I will not withhold feedback 
-- I won't accept the status quo
+- I'm always learning, always growing
+- I won't accept the status quo 
 
 #### What I expect of you
-- Don't withold feedback from me
-- 
-
-### Communicating with me
-
-[WIP]
+- Define what success looks like
+- Don't withhold feedback 
 
 ### Bugs and Quirks
+- Big dreams, little engine
+- Missing context and it's affects
+- Intuitive connections and deductive reasoning
+- Impostor syndrome
 
 ### My Story
+
+[todo -- alternate doc]
 
 ### Personal Interests
 
 I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. We do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend it wisely on things that matter most.
+- creating inclusive spaces where people feel like they belong, take risks, and do their best work --> every team I am part of
+- empowering the under-priveledged and under-resourced through education --> WomenWhoCode, GirlsWhoCode, etc. 
+- slowing and reversing climate change --> minimizing personal consumption, building and/or supporting scalable solutions for change
+- disrupting education and other longstanding and out-dated institutions
 
 ### What I'm up to... 
 
