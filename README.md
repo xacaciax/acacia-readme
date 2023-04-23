@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by...
 
 ### What is this? 
 
-These are some things I have learned about myself over the years about who I am and what it's like to work with me.
+These are some things I have learned over the years about who I am and what it's like to work with me. 
 
 ### My Philosophy
 ... or, _mantras I live by_
