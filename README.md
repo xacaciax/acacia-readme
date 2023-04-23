@@ -12,6 +12,7 @@ I believe that we perform best when we believe in what we are doing. I find bott
 - creating inclusive spaces where people feel like they belong, take risks, and do their best work --> every team I am part of
 - empowering the under-priveledged and under-resourced through education --> WomenWhoCode, GirlsWhoCode, etc. 
 - slowing and reversing climate change --> minimizing personal consumption, building and/or supporting scalable solutions for change
+- disrupting the education system and other long-standing institutions 
 
 ### Core Values 
 ... or, _mantras I live by_
@@ -29,8 +30,8 @@ We are all WIP.
 ### What I'm up to... 
 
 Winter 2022/2023, I have been
-- Reading books I've been wanting to read, like Code Complete and Programming Pearls. More on that [here](https://millennialbasic.com/reading-list/). 
 - Studying Data Structures, Algorithms, and System Design. More on that [here](https://github.com/xacaciax/js-ds-and-algos).
+- Reading books I've been wanting to read, like Code Complete and Programming Pearls. More on that [here](https://millennialbasic.com/reading-list/). 
 - Reflecting on my past two roles as a software engineer and asking myself what I want next... 
 
 Spring 2023, I'm actively applying to jobs and interviewing. In my next role, I aim to
