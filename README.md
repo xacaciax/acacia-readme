@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by...
 
 ### What is this? 
 
-These are some things I have learned over the years about who I am and what it's like to work with me. 
+This is a document that is WIP. It's a collection of learnings from over the years. The purpose of this document is to help you get to know what it's like working with me. 
 
 ### My Philosophy
 ... or, _mantras I live by_
@@ -17,7 +17,7 @@ We find our meaning in service to others. [todo: explain]
 
 Actions speak louder than words. [todo: explain]
 
-We are all WIP. 
+We are all WIP. [todo: explain]
 
 ### Working with me
 
