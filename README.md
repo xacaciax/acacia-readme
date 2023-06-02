@@ -47,15 +47,15 @@ There are some excpetions to this such as on-call rotations, hackathons, and inc
 
 I work remote so this is within the context of working on a distrubuted team. In general, on a team, the goal is to find the most expediant mode of communication to move the work/project forward. Use your discresion and I will always be willing and open to work with you in whatever way is needed to get the job done, but here are my preferences: 
 
-#### Virtual meetings 
+#### Meetings 
 I'm a planner and as an engineer I like to protect my time for deep work and flow time. If a meeting can be asynchronous and/or replaced with a Slack message/exchange or email, then do that. If you find the issue/problem/topic too large, amorpheous, or complex for a Slack exchange, then Slack DM me for an ad hoc sync (Slack huddle, Zoom, etc.) 
 
-Dos: 
+**Dos:**
 - Schedule ahead of time
 - Share context ahead of time: context switching is cognitively costly so please help me by sharing any context in the form of documents, agenda, etc. ahead of time. 
 - Be clear about the goal of the meeting and what we are trying to achieve: have an agenda, state the goal of the meeting at the begining of our time together
 
-Don'ts
+**Don'ts:**
 - Expect me to show up to a scheduled meeting if I have not accepted the invite
 - Invite me to meetings without a clear goal or purpose
 
@@ -69,14 +69,13 @@ I'm quite averse to it and try to spend as little time as possible dealing with 
 If it's off-hours and urgent, please page me.
 
 #### Mobile
-For my friends and family and I usually do not use it for work. If Pager Duty is not an option, then feel free to text/call for incidents and emergencies. 
+For my friends and family. If Pager Duty is not an option, then feel free to text/call for incidents and emergencies. I have the Slack app on my phone and use it frequently so a DM there is as good as a text.  
 
 #### Social Media
 Nope. 
 
 ### Bugs and Quirks 
 Like most humans, I come equipped with a handful of flaws and personality traits that you may find challenging. There are ways in which I try to control or compensate for each of these tendencies but I'm not always successful. My hope is that by being open about these aspects of my personality you will feel comfortable calling them out if they become a problem for you.
-
 
 #### Big dreams, little engine
 I'm a dreamer at my core. I live in the best of all possible worlds. I see the best in people. I believe in myself and others. From this view, I will take big risks of myself and others. This inborn optimism can be energizing and empowering when well-placed. At the end of the day, I am human, there are 24 hours in a day, and the average life span of humans is only ~72 years. I have had to learn to be intentional and realistic when setting goals for myself and others. If you see that sparkle in eye and here me start to dream big, feel free to ask questions, help me validate assumptions, help me stay realistic and keep the goals measurable and achievable. 
@@ -99,6 +98,8 @@ I believe that we perform best when we believe in what we are doing. I find bott
 - empowering the under-priveledged and under-resourced through education --> WomenWhoCode, GirlsWhoCode, etc. 
 - slowing and reversing climate change --> minimizing personal consumption, building and/or supporting scalable solutions for change
 - disrupting education and other longstanding and out-dated institutions
+
+For fun, I love to spend time outdoors and do most anything on/in the water! I ski, surf, sail, and climb. Cooking and gardening are ways I love to stay connected to our wonderful mother earth. My immediate family is important to me and I take my role as an Auntie very seriously. 
 
 ### What I'm up to... 
 
