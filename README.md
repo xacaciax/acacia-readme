@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by...
 
 ### What is this? 
 
-This is a document that is a constant work in progress. The purpose of this document is not to replace getting to know me but rather to accelarate your understanding of who I am and how I work in order to faciliate our collaboration!
+This document is a constant work in progress. The purpose of this document is not to replace getting to know me but rather to accelarate your understanding of who I am and how I work in order to faciliate our collaboration!
 
 ### My Philosophy
 ... or, _mantras I live by_
