@@ -36,10 +36,11 @@ To start, here are some principles I live by to help you better understand me as
 
 ### Balancing life and work
 
-My vision for my life and the impact I want to have is not limitted to my work contributions. I am accountable to resposibilities, communities, people and purpose beyond my 9-5. Striking a balance is important to avoid burning out and some ways that I achieve this is by allocating time to rest and live well outside of work. Here are a few things I generally do not do in order to protect this balance: 
+My vision for my life and the impact I want to have is not limitted to my work contributions. I am accountable to resposibilities, communities, people and purpose beyond my 9-5. Striking a balance is important to avoid burning out. I achieve this by allocating time to rest and live well outside of work. Here are a few things I generally do not do in order to protect this balance: 
 - Use email or Slack off-hours
-- Working weekends
-- Scheduling meetings very late in the day
+- Work weekends
+- Schedule meetings very late in the day
+
 There are some excpetions to this such as on-call rotations, hackathons, and incidents scoped to my domain expertise. Otherwise, I hold this line so that I can bring my best self to work during the hours I am accountable to work. 
 
 ### Communication and collaborating 
@@ -49,11 +50,14 @@ I work remote so this is within the context of working on a distrubuted team. In
 #### Virtual meetings 
 I'm a planner and as an engineer I like to protect my time for deep work and flow time. If a meeting can be asynchronous and/or replaced with a Slack message/exchange or email, then do that. If you find the issue/problem/topic too large, amorpheous, or complex for a Slack exchange, then Slack DM me for an ad hoc sync (Slack huddle, Zoom, etc.) 
 
-Meeting Dos: 
-- Schedule it ahead of time
-- Share context ahead of time
-- Be clear about the goal of the meeting and what we are trying to achieve
-- Stay accountable to work toward stated goal
+Dos: 
+- Schedule ahead of time
+- Share context ahead of time: context switching is cognitively costly so please help me by sharing any context in the form of documents, agenda, etc. ahead of time. 
+- Be clear about the goal of the meeting and what we are trying to achieve: have an agenda, state the goal of the meeting at the begining of our time together
+
+Don'ts
+- Expect me to show up to a scheduled meeting if I have not accepted the invite
+- Invite me to meetings without a clear goal or purpose
 
 #### Slack
 Generally, the easiest way to get in touch with me. I try to stay on top of Slack and respond in less than an hour during the workday. One exception is meetings. I don't multi-task, I typically catch up on Slack between meetings. There are times when I get deep into debugging or flow and may not respond for an extended amount of time, if this is the case, I will usually say so. 
