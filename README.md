@@ -57,7 +57,6 @@ I'm a planner and as an engineer I like to protect my time for deep work and flo
 
 **Don'ts:**
 - Expect me to show up to a scheduled meeting if I have not accepted the invite
-- Invite me to meetings without a clear goal or purpose
 
 #### Slack
 Generally, the easiest way to get in touch with me. I try to stay on top of Slack and respond in less than an hour during the workday. One exception is meetings. I don't multi-task, I typically catch up on Slack between meetings. There are times when I get deep into debugging or flow and may not respond for an extended amount of time, if this is the case, I will usually say so. 
@@ -77,8 +76,7 @@ Nope.
 ### Bugs and Quirks 
 Like most humans, I come equipped with a handful of flaws and personality traits that you may find challenging. There are ways in which I try to control or compensate for each of these tendencies but I'm not always successful. My hope is that by being open about these aspects of my personality you will feel comfortable calling them out if they become a problem for you.
 
-#### Big dreams, little engine
-I'm a dreamer at my core. I live in the best of all possible worlds. I see the best in people. I believe in myself and others. From this view, I will take big risks of myself and others. This inborn optimism can be energizing and empowering when well-placed. At the end of the day, I am human, there are 24 hours in a day, and the average life span of humans is only ~72 years. I have had to learn to be intentional and realistic when setting goals for myself and others. If you see that sparkle in eye and here me start to dream big, feel free to ask questions, help me validate assumptions, help me stay realistic and keep the goals measurable and achievable. 
+#### TODO Big dreams, little engine
 
 #### TODO Missing context and it's affects 
 
