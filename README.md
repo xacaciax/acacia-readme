@@ -17,7 +17,7 @@ To start, here are some principles I live by to help you better understand me as
 
 **We find our meaning in service to others.** Be generous. Give away what you have. An old Georgian proverb says what is given away is kept forever, but what is kept is lost forever. Meaning, purpose, and significance is found in service to others. I believe a life well-lived is a life that is given away in service to others.
 
-**Own it.** Taking ownership the secret sauce to having an impact. I believe in order to get a job done, you have to be willing to take a (sometimes seemingly) irrational amount of responsibility for outcomes. Only then will you see the part you play and make necessary adjustments to achieve results.
+**Own it.** Taking ownership is the secret sauce to having an impact. I believe in order to get a job done, you have to be willing to take a (sometimes seemingly) irrational amount of responsibility for outcomes. Only then will you see the part you play and make necessary adjustments to achieve results.
 
 **Actions speak louder than words.** Validate everything. Look at the data. Be vigilant. Studies have shown our minds make up stories (lie) to us all the time, we are far less rational than we think we are. For this reason, I have a general distrust of my own thinking and what people say. If you want to understand yourself, a person, organization, nation, look beyond what they say to see what they do.
 
