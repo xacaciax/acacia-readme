@@ -50,12 +50,12 @@ I work remote so this is within the context of working on a distrubuted team. In
 #### Meetings 
 I'm a planner and as an engineer I like to protect my time for deep work to get into flow and spend my attention on complex problem solving. If a meeting can be asynchronous and/or replaced with a Slack message/exchange or email, then do that. If you find the issue/problem/topic too large, amorpheous, or complex for a Slack exchange, then Slack DM me for an ad hoc sync (Slack huddle, Zoom, etc.)
 
-**Dos:**
+**Please do:**
 - Do schedule ahead of time
 - Do share context ahead of time: context switching is cognitively costly so please help me by sharing any context in the form of documents, agenda, etc. ahead of time. 
 - Do be clear about the goal of the meeting and what we are trying to achieve: have an agenda, state the goal of the meeting at the beginning of our time together
 
-**Don'ts:**
+**Please do not:**
 - Do not expect me to show up to a scheduled meeting if I have not accepted the invite
 
 #### Slack
