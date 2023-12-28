@@ -89,12 +89,12 @@ Like most humans, I come equipped with a handful of flaws and personality traits
 
 ### Passions and Interests
 
-I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. We do not have a lot of time on this earth. Our time is our most precious resouce. I aim to spend it wisely on things that matter most.
+I believe that we perform best when we believe in what we are doing. I find bottomless wells of energy and motivation when the work I'm doing alligns with who I am and the impact I want to ultimately have in this lifetime. Our time is our most precious resouce, it should not be wasted. I aim to spend my time wisely on things that matter most.
+- innovation and intra-preneurship, analyzing existing systems and finding ways to make them better!
 - creating empowering spaces where people feel like they belong, take risks, and do their best work 
 - empowering the under-priveledged and under-resourced through education --> WomenWhoCode, GirlsWhoCode, etc. 
-- disrupting education and other longstanding and out-dated institutions by providing solutions that work
 
-For fun, I love to spend time outdoors and enjoy anything that involves a controlled fall: I ski, surf, sail, and dance. Cooking and gardening are ways I love to stay connected to our wonderful mother earth. My immediate family is important to me and I take my role as an Auntie very seriously. 
+For fun, I love to spend time outdoors and enjoy anything that involves a controlled fall. I ski, surf, sail, and dance. I'm a proud auntie of seven nieces and nephews and counting. 
 
 ### What I'm up to... 
 
