@@ -15,7 +15,7 @@ To start, here are some principles I live by to help you better understand me as
 
 **Do what scares you.** Be bold. Seek discomfort. Do what scares you. (It probably is not as scary as you imagine!). This is how we grow. We can accomplish so much more than we think if we take big bets, reach for audacious goals, and maintain a growth mindset when we fail. Our life is formed by how we focus our attention and what chose to spend time doing. Most things can be learned and achieved as a function of time, effort, and a willingness to try again.
 
-**We find our meaning in service to others.** Be generous. Give away what you have. An old Georgian proverb says what is given away is kept forever, but what is kept is lost forever. Meaning, purpose, and significance is found in service to others. I believe a life well-lived is a life that is given away in service to others.
+**We find our meaning in service to others.** Be generous. Give away what you have. An old Georgian proverb says what is given away is kept forever, but what is kept is lost forever. I believe meaning, purpose, and significance is found in service to others. 
 
 **Own it.** Taking ownership is the secret sauce to having an impact. I believe in order to get a job done, you have to be willing to take a (sometimes seemingly) irrational amount of responsibility for outcomes. Only then will you see the part you play and make necessary adjustments to achieve results.
 
