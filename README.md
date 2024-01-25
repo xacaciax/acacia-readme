@@ -41,7 +41,7 @@ My vision for my life and the impact I want to have is not limitted to my work c
 - Work weekends
 - Schedule meetings very late in the day
 
-There are some excpetions to this such as on-call rotations, hackathons, and incidents scoped to my domain expertise. Otherwise, I hold this line so that I can bring my best self to work during the hours I am accountable to work. 
+There are some exceptions to this such as on-call rotations, hackathons, and incidents scoped to my domain expertise. Otherwise, I hold this line so that I can bring my best self to work during the hours I am accountable to work. 
 
 ### Communication and collaborating 
 
