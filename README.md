@@ -98,5 +98,5 @@ For fun, I love to spend time outdoors and enjoy anything that involves a contro
 
 ### What I'm up to... 
 
-In May 2023, I joined the team at [Edily](https://edily.io/)! If you want to learn more, don't hesitate to reach out at acacia.pappas@edily.io. I am thrilled to be their first full time engineer to help build out their mobile app in a full stack capacity and deliver a fun, engaging and excellent app experience to learners and education content creators everywhere!
+In February 2024 I joined Hope Street Group as a Founding / Senior Software Engineer!
 
